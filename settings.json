@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "usman1238.aternos.me",
+    "ip": "usman1238.aternos.me:30593",
     "port": 30593,
     "version": "",
     "try-creative": false
