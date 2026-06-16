@@ -1,12 +1,12 @@
 {
-  "name": "ARK OP",
+  "name": "AFK BOT",
   "bot-account": {
     "username": "ARK2OP",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "usman1238.aternos.me:30593",
+    "ip": "usman1238.aternos.me",
     "port": 30593,
     "version": "",
     "try-creative": false
